@@ -1,0 +1,15 @@
+body{
+    background-image: url("https://img.freepik.com/free-vector/gradient-dynamic-blue-lines-background_23-2148995756.jpg?size=626&ext=jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+
+#header{
+
+font-size:xx-large;
+font-family:"Segoe UI";
+font-weight: 900;
+
+}
